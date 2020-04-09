@@ -6,7 +6,7 @@ This is a project created as sandbox from scratch with:
 - nodemon
 - views as html
 
-## Steps to create a project from scratch
+## Steps to create a project from scratch:
 
 - Create app.js file
 - npm init
