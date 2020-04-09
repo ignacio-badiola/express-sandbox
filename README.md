@@ -8,7 +8,6 @@ This is a project created as sandbox from scratch with:
 
 ## Steps to create a project from scratch
 
-Steps:
 - Create app.js file
 - npm init
 - npm i express
