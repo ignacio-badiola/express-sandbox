@@ -20,3 +20,13 @@ This is a project created as sandbox from scratch with:
 - return pages as routes match response by `res.sendFile`
 - create `public` folder to expose to users without security by app.use(express.static(path.join(__dirname, 'public')))
 - place all extra js and css files under public folder and use them in the app
+
+### Install
+```
+npm i
+```
+
+### Run
+```
+npm start
+```
